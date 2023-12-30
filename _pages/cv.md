@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download CV here](https://amitjena1992.github.io/files/cv.pdf)
 
 Education
 ======
