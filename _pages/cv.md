@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Integrated Msc. in Mathematics, NIT Rourkela, 2016
+* M.S. in Electrical Engineering, Iowa State University, 2020
+* Ph.D in Electrical Engineering, Texas A&M University (ongoing)
 
 Work experience
 ======
