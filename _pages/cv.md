@@ -13,30 +13,34 @@ redirect_from:
 
 Education
 ======
-* Integrated Msc. in Mathematics, NIT Rourkela, 2016
+* Ph.D. in Electrical Engineering, Texas A&M University (ongoing)
 * M.S. in Electrical Engineering, Iowa State University, 2020
-* Ph.D in Electrical Engineering, Texas A&M University (ongoing)
+* Integrated M.Sc. (B.Sc.+M.Sc.) in Mathematics, NIT Rourkela, 2016
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020 - Present: Research Assistant
+  * Texas A&M University
+  * Research Topics: Meta-learning, Reinforcement Learning, Stability Analysis of Power Systems
+  * Supervisor: Dr. Le Xie
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
-* Skill 1
+* Python
+* MATLAB
+* OpenDSS
+<!-- * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -50,11 +54,11 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Service and leadership
 ======
