@@ -22,7 +22,7 @@ Work experience
 ======
 * Fall 2020 - Present: Research Assistant
   * Texas A&M University
-  * Research Topics: Meta-learning, Reinforcement Learning, Stability Analysis of Power Systems
+  * Research Topics: Generative AI (In-context Learning), Meta-Learning, Stability Analysis, Power Systems Control
   * Supervisor: Dr. Le Xie
 
 <!-- * Fall 2015: Research Assistant
@@ -35,7 +35,7 @@ Skills
 * Python
 * MATLAB
 * OpenDSS
-
+* PSCAD
 Publications
 ======
   <ul>{% for post in site.publications %}
