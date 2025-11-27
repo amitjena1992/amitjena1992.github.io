@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV here](https://amitjena1992.github.io/files/cv.pdf) (Last Updated: <code style="color : Red">12/30/2023</code>)
+[Download CV here](https://amitjena1992.github.io/files/cv.pdf) (Last Updated: <code style="color : Red">11/26/2025</code>)
 
 
 Education
